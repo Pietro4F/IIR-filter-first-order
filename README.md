@@ -5,7 +5,7 @@ First order filter
 <br>
 <pre>
 Developed by:<br>
-- Pietro Fagnani      Politecnico di Torino, Italy <br>
-- Marco Massetti      Politecnico di Torino, Italy <br>
-- Pietro Montorsi	    Politecnico di Torino, Italy <br>
+- Pietro Fagnani    Politecnico di Torino, Italy <br>
+- Marco Massetti    Politecnico di Torino, Italy <br>
+- Pietro Montorsi   Politecnico di Torino, Italy <br>
 </pre>
